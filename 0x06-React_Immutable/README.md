@@ -1,4 +1,4 @@
-#0x06-React_Immutable
+# 0x06-React_Immutable
 
 This project covers the concept of immutability in Javascript
 

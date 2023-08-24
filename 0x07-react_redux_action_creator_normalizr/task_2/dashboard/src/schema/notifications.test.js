@@ -86,6 +86,4 @@ describe('notifications', () => {
 
     expect(notification).toEqual(data);
   });
-});ct.arrayContaining(data));
-  });
 });

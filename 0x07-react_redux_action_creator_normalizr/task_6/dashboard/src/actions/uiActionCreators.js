@@ -35,10 +35,3 @@ export const hideNotificationDrawer = () => {
 };
 export const boundHideNotificationDrawer = () =>
   dispatch(hideNotificationDrawer());
-};
-
-export const hideNotificationDrawer = () => {
-  return {
-    type: HIDE_NOTIFICATION_DRAWER,
-  };
-};
